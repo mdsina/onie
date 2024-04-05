@@ -8,7 +8,7 @@ index 529f774..0515e6d 100644
  #ifndef __SYS_EEPROM_PLATFORM_H_
  #define __SYS_EEPROM_PLATFORM_H_
  
-+#define SYS_EEPROM_MAX_SIZE     0x100
++#define SYS_EEPROM_MAX_SIZE     0x800
 +#define SYS_EEPROM_OFFSET       0
 +#define SYS_EEPROM_SIZE         SYS_EEPROM_MAX_SIZE
 +#define SYS_EEPROM_I2C_DEVICE  "/dev/i2c-0"
